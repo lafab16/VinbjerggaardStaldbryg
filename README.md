@@ -1,3 +1,5 @@
 # VinbjerggaardStaldbryg
 
-A simple website to display the different beertypes with a short description each.
+This website is developed for a group of enthusiastic home brewers. They brew thier beers in their sparetime and this website is just a fun way for them to share their project.  
+
+It is a simple website to display the different beertypes with a short description each. 
