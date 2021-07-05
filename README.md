@@ -1,4 +1,4 @@
 # VinbjerggaardStaldbryg
-<h1> A website for an enthusiastic home brewing team. <\h1>
+<h1> A website for an enthusiastic home brewing team.
 
-<p> A simple website to display the different beertypes with a short description each. <\p>
+A simple website to display the different beertypes with a short description each.
