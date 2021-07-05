@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+    <link rel="shortcut icon" type="image/png" href="/favicon.ico"/>
+    <link rel="stylesheet" href="stylesheet.css"/> <!-- link to the stylesheet -->
+
+    <meta charset="utf-8">
+  </head>
+  <body>
+
+
+<div class="bg-img">
+<div class="container">
+
+
+<nav>
+
+
+
+  <div class="gallerynav">
+    <a href="beertypes.php">
+      <div class="desc">
+        <h1><i class="fas fa-beer"></i></h1>
+      </div>
+      <div class="desc"><b>Øl typer</b></div>
+    </a>
+  </div>
+
+  <div class="gallerynav">
+    <a href="gallery.php">
+      <div class="desc">
+        <h1><i class="fas fa-images"></i></h1>
+      </div>
+    <div class="desc"><b>Galleri</b></div>
+    </a>
+  </div>
+
+  <div class="gallerynav">
+    <a href="about.php">
+      <div class="desc">
+        <h1><i class="fas fa-couch"></i></h1>
+      </div>
+    <div class="desc"><b>Om os</b></div>
+    </a>
+  </div>
+
+  <div class="gallerynav">
+    <a href="contact.php">
+      <div class="desc">
+        <h1><i class="fas fa-address-book"></i></h1>
+      </div>
+    <div class="desc"><b>Kontakt</b></div>
+    </a>
+  </div>
+
+</nav>
+
+</div>
+</div>
+
+  </body>
+</html>
